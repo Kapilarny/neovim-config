@@ -24,6 +24,8 @@ Plug 'prettier/vim-prettier', { 'do': 'yarn install --frozen-lockfile --producti
 Plug 'jiangmiao/auto-pairs'
 Plug 'yaegassy/coc-volar', { 'do': 'yarn install --frozen-lockfile --production' } 
 Plug 'styled-components/vim-styled-components', { 'branch': 'main' }
+Plug 'SirVer/ultisnips'
+Plug 'mlaursen/vim-react-snippets'
 
 call plug#end()
 
