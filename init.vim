@@ -22,6 +22,7 @@ Plug 'airblade/vim-gitgutter'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'prettier/vim-prettier', { 'do': 'yarn install --frozen-lockfile --production' }
 Plug 'jiangmao/auto-pairs'
+Plug 'yaegassy/coc-volar', { 'do': 'yarn install --frozen-lockfile --production' }
 
 call plug#end()
 
