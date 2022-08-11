@@ -18,6 +18,10 @@ Plug 'vim-airline/vim-airline'
 Plug 'ap/vim-css-color'
 Plug 'tc50cal/vim-terminal'
 Plug 'ryanoasis/vim-devicons'
+Plug 'airblade/vim-gitgutter'
+Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'prettier/vim-prettier', { 'do': 'yarn install --frozen-lockfile --production' }
+Plug 'jiangmao/auto-pairs'
 
 call plug#end()
 
